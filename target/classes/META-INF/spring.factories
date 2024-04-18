@@ -1,2 +1,0 @@
-# Bootstrap components
-org.springframework.cloud.bootstrap.BootstrapConfiguration=config.CustomBootstrapRegistryInitializer
