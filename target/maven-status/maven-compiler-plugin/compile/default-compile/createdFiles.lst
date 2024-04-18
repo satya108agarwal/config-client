@@ -1,0 +1,6 @@
+models/LoginRequest.class
+config/CustomBootstrapRegistryInitializer.class
+com/allstate/configclient/TestController.class
+config/CustomBootstrapRegistryInitializer$HeaderRequestInterceptor.class
+CloudconfigclientApplication.class
+models/Token.class
